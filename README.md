@@ -1,0 +1,2 @@
+Digital SoC Physical Design (NASCCOM Certification - VLSI System Design)
+This course provides a comprehensive understanding of Digital System-on-Chip (SoC) Physical Design, focusing on industry-relevant open-source EDA tools. It covers Magic for layout design, Netgen for circuit verification, NGSpice for simulation, and the OpenLane toolchain for the complete RTL-to-GDSII flow. The course offers hands-on experience in physical design, standard cell creation, and verification processes, equipping learners with practical skills essential for modern VLSI design.
